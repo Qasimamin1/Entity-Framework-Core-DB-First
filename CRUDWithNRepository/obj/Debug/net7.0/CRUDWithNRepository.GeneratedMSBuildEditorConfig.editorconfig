@@ -1,0 +1,57 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CRUDWithNRepository
+build_property.RootNamespace = CRUDWithNRepository
+build_property.ProjectDir = C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithNRepository\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithNRepository
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/cvv081/OneDrive - AFRY/Desktop/Asp.net Core Web Api and Razor Pages/New CRUDREPO/CRUDWithNRepository/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cvv081/OneDrive - AFRY/Desktop/Asp.net Core Web Api and Razor Pages/New CRUDREPO/CRUDWithNRepository/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cvv081/OneDrive - AFRY/Desktop/Asp.net Core Web Api and Razor Pages/New CRUDREPO/CRUDWithNRepository/Views/Product/CreateOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGVPckVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cvv081/OneDrive - AFRY/Desktop/Asp.net Core Web Api and Razor Pages/New CRUDREPO/CRUDWithNRepository/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cvv081/OneDrive - AFRY/Desktop/Asp.net Core Web Api and Razor Pages/New CRUDREPO/CRUDWithNRepository/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cvv081/OneDrive - AFRY/Desktop/Asp.net Core Web Api and Razor Pages/New CRUDREPO/CRUDWithNRepository/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cvv081/OneDrive - AFRY/Desktop/Asp.net Core Web Api and Razor Pages/New CRUDREPO/CRUDWithNRepository/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cvv081/OneDrive - AFRY/Desktop/Asp.net Core Web Api and Razor Pages/New CRUDREPO/CRUDWithNRepository/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cvv081/OneDrive - AFRY/Desktop/Asp.net Core Web Api and Razor Pages/New CRUDREPO/CRUDWithNRepository/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cvv081/OneDrive - AFRY/Desktop/Asp.net Core Web Api and Razor Pages/New CRUDREPO/CRUDWithNRepository/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-pnd7gb9rrt

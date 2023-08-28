@@ -1,0 +1,12 @@
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Core\bin\Debug\net7.0\CRUDWithRepository.Core.deps.json
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Core\bin\Debug\net7.0\CRUDWithRepository.Core.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Core\bin\Debug\net7.0\CRUDWithRepository.Core.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Core\obj\Debug\net7.0\CRUDWithRepository.Core.csproj.AssemblyReference.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Core\obj\Debug\net7.0\CRUDWithRepository.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Core\obj\Debug\net7.0\CRUDWithRepository.Core.AssemblyInfoInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Core\obj\Debug\net7.0\CRUDWithRepository.Core.AssemblyInfo.cs
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Core\obj\Debug\net7.0\CRUDWithRepository.Core.csproj.CoreCompileInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Core\obj\Debug\net7.0\CRUDWithRepository.Core.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Core\obj\Debug\net7.0\refint\CRUDWithRepository.Core.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Core\obj\Debug\net7.0\CRUDWithRepository.Core.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Core\obj\Debug\net7.0\ref\CRUDWithRepository.Core.dll

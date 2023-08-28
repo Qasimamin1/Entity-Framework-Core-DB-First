@@ -1,0 +1,39 @@
+﻿@model CRUDWithRepository.Core.Product
+
+@{
+    ViewData["Title"] = "Delete Product" ;
+
+
+}
+<form method="post" action="Delete">
+    <div class="card">
+    <div class="card-header bg-info">
+            <h2 class="text-center"> @ViewData["Title"]</h2>
+        </div>
+        <div class="card-body">
+            <input type="hidden" asp-for="Id" />
+            <div class="form-floating mb-2">
+                <input asp-for="ProductName" class="form-control" readonly/>
+                <label asp-for="ProductName"></label>
+            </div>
+            
+            <div class="form-floating mb-2">
+                <input asp-for="Price" class="form-control" readonly />
+                <label asp-for="Price"></label>
+            </div>
+
+            <div class="form-floating mb-2">
+                <input asp-for="Qty" class="form-control" readonly />
+                <label asp-for="Qty"></label>
+            </div>
+
+            <div class="col-lg-12 d-grid">
+                <button type="submit" class="btn btn-danger">Delete</button>
+
+            </div>
+
+        </div>
+        
+    </div>
+
+</form>

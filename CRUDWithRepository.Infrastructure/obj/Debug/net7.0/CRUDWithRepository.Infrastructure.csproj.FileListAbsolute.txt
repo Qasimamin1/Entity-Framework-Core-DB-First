@@ -1,0 +1,15 @@
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Infrastructure\bin\Debug\net7.0\CRUDWithRepository.Infrastructure.deps.json
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Infrastructure\bin\Debug\net7.0\CRUDWithRepository.Infrastructure.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Infrastructure\bin\Debug\net7.0\CRUDWithRepository.Infrastructure.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Infrastructure\bin\Debug\net7.0\CRUDWithRepository.Core.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Infrastructure\bin\Debug\net7.0\CRUDWithRepository.Core.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Infrastructure\obj\Debug\net7.0\CRUDWithRepository.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Infrastructure\obj\Debug\net7.0\CRUDWithRepository.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Infrastructure\obj\Debug\net7.0\CRUDWithRepository.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Infrastructure\obj\Debug\net7.0\CRUDWithRepository.Infrastructure.AssemblyInfo.cs
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Infrastructure\obj\Debug\net7.0\CRUDWithRepository.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Infrastructure\obj\Debug\net7.0\CRUDWithRepository.Infrastructure.csproj.CopyComplete
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Infrastructure\obj\Debug\net7.0\CRUDWithRepository.Infrastructure.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Infrastructure\obj\Debug\net7.0\refint\CRUDWithRepository.Infrastructure.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Infrastructure\obj\Debug\net7.0\CRUDWithRepository.Infrastructure.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Asp.net Core Web Api and Razor Pages\New CRUDREPO\CRUDWithRepository.Infrastructure\obj\Debug\net7.0\ref\CRUDWithRepository.Infrastructure.dll
